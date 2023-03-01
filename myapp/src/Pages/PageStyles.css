@@ -1,0 +1,27 @@
+.home{
+    display: flex;
+    /* height: 40%; */
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+ img {
+    
+    width: 100%;
+    height: 450px;
+    /* object-fit: contain; */
+      
+}
+
+.carlist{
+    cursor: pointer;
+}
+
+.caption{
+    font-size: 2rem;
+    /* font-size: 100px; */
+}
+.caption >h3{
+    font-size: 4rem;
+}
